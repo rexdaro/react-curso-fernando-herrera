@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       
-      <CounterApp value={27}></CounterApp>
+      <CounterApp value={0}></CounterApp>
     </div>
   )
 }
